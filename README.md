@@ -4,4 +4,7 @@
 
 This clone was made in Unity for my algorithms class during the fall of 2015.
 
-Playble versions are available at https://www.dropbox.com/s/mifzv4nqvjfoez0/2048%20Playable.zip?dl=0.
+Playable versions for Windows, Mac, and Linux are available at https://www.dropbox.com/s/mifzv4nqvjfoez0/2048%20Playable.zip?dl=0.
+
+## How to Play
+Arrow keys to move, R to reset. Join matching tiles to get to 2048.
